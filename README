@@ -1,10 +1,10 @@
-Глобальные настройки:
- Загрузить и установить Git
+Р“Р»РѕР±Р°Р»СЊРЅС‹Рµ РЅР°СЃС‚СЂРѕР№РєРё:
+ Р—Р°РіСЂСѓР·РёС‚СЊ Рё СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Git
   git config --global user.name "Your Name"
   git config --global user.email psyhodreams@gmail.com
   Add your public key
         
-Следующие шаги:
+РЎР»РµРґСѓСЋС‰РёРµ С€Р°РіРё:
   mkdir use-git
   cd use-git
   git init
@@ -14,13 +14,13 @@
   git remote add origin git@github.com:fattahov/use-git.git
   git push origin master
       
-Уже есть Git репозиторий?
+РЈР¶Рµ РµСЃС‚СЊ Git СЂРµРїРѕР·РёС‚РѕСЂРёР№?
   cd existing_git_repo
   git remote add origin git@github.com:fattahov/use-git.git
   git push origin master
       
-Импортировать репозиторий Subversion?
-  Нажмите здесь
+РРјРїРѕСЂС‚РёСЂРѕРІР°С‚СЊ СЂРµРїРѕР·РёС‚РѕСЂРёР№ Subversion?
+  РќР°Р¶РјРёС‚Рµ Р·РґРµСЃСЊ
       
-Когда все готово:
-  Продолжить
+РљРѕРіРґР° РІСЃРµ РіРѕС‚РѕРІРѕ:
+  РџСЂРѕРґРѕР»Р¶РёС‚СЊ
